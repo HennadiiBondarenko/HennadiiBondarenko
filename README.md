@@ -2,7 +2,7 @@
 
 <img align="left" alt="Coding" width="800" src="header1.png">
  
-<p>_______________________________</p>
+<p>_______________________</p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
