@@ -23,5 +23,4 @@
 <img align="left" alt="Coding" width="50" src="git-original.svg">
 <img align="left" alt="Coding" width="50" src="mongodb-original-wordmark.svg">
 <img align="left" alt="Coding" width="50" src="nodejs-original-wordmark.svg">
-<img align="left" alt="Coding" width="50" src="react-original-wordmark.svg">
 
