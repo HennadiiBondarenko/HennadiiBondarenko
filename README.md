@@ -11,7 +11,7 @@
 
 <a href="https://www.instagram.com/gena_bondarenko/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" />Write me on instagram</a>
 
- <a target="_blank" href="mailto:hennadiibondarenko@gmail.com"><img align="center" src="gmail.png" alt="" height="30" width="40" /> Send me an email </a>
+ <a target="_blank" href="mailto:hennadiibondarenko@gmail.com"><img align="center" src="gmai2l.png" alt="" height="30" width="40" /> Send me an email </a>
 </p>
 <p>___________</p>
 
