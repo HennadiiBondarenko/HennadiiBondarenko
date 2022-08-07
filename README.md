@@ -7,9 +7,9 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left" style = display="inline">
-<a href="https://www.linkedin.com/in/hennadii-bondarenko-695350240/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hennadii-bondarenko-695350240/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />Write me on Linkedin</a>
 
-<a href="https://www.instagram.com/gena_bondarenko/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gena_bondarenko/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" />Write me on instagram</a>
 
  <a target="_blank" href="mailto:hennadiibondarenko@gmail.com"><img align="center" src="gmail.png" alt="" height="30" width="40" /> Send me an email </a>
 </p>
