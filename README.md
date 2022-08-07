@@ -1,6 +1,6 @@
 ### Hello Everybody!
 
-<img align="left" alt="Coding" width="900" src="header1.png">
+<img align="left" alt="Coding" width="100%" src="header1.png">
  
 <p>___________________</p>
 <br />
