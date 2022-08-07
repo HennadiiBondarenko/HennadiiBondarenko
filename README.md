@@ -3,7 +3,6 @@
 <img align="left" alt="Coding" width="100%" src="header1.png">
  
 <p>___________________</p>
-<br />
  
 <h3 align="left">Connect with me:</h3>
 <p align="left" style = display="inline">
@@ -13,8 +12,6 @@
 
  <a target="_blank" href="mailto:hennadiibondarenko@gmail.com"><i class="nav-logo fa-solid fa-envelope"><img align="center" src="gmail.png" alt="" height="30" width="40" /></i></a>
 </p>
-
-<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Coding" width="50" src="javascript-original.svg">
