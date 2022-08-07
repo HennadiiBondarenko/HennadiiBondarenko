@@ -14,6 +14,8 @@
  <a target="_blank" href="mailto:hennadiibondarenko@gmail.com"><img align="center" src="gmail.png" alt="" height="30" width="40" /> Send me an email </a>
 </p>
 
+<img align="left" alt="Coding" width="100%" src="background.jpeg">
+
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
