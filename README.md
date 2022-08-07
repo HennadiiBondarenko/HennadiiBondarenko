@@ -13,11 +13,11 @@
 
  <a target="_blank" href="mailto:hennadiibondarenko@gmail.com"><img align="center" src="gmail.png" alt="" height="30" width="40" /> Send me an email </a>
 </p>
-___________</p>
+<p>___________</p>
 
 <img align="left" alt="Coding" width="100%" src="background.jpeg">
 
-___________</p>
+<p>___________</p>
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,4 +32,4 @@ ___________</p>
 <img align="left" alt="Coding" width="50" src="nodejs-original-wordmark.svg">
 
 <br />
-___________</p>
+<p>___________</p>
